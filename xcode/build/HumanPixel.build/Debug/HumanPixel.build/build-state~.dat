@@ -1,0 +1,229 @@
+THumanPixel
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/Info.plist Info.plist
+cCpResource ../resources/CinderApp.icns ./build/Debug/HumanPixel.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HumanPixel_Prefix-agtvatkzkkxylqevpjgeaczwaeby/HumanPixel_Prefix.pch.pth HumanPixel_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/HumanPixel.build/Debug/HumanPixel.build/Objects-normal/i386/HumanPixelApp.o /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/../src/HumanPixelApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/MacOS/HumanPixel normal i386
+cTouch /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051AEFC3300000000000000AA
+t1370422323
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000005079C58E00000000000024F0
+t1350157710
+s9456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000051AEFC190000000000024DD8
+t1370422297
+s151000
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c0000000051AEFC1900000000000060B4
+t1370422297
+s24756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c000000005079C58E00000000000001E5
+t1350157710
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000051AEFC19000000000000E9A8
+t1370422297
+s59816
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004F35BCF00000000000006560
+t1328921840
+s25952
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004FB1359E000000000007CED0
+t1337013662
+s511696
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000506C0787000000000002D360
+t1349257095
+s185184
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000051D9F91000000000004B9FB0
+t1373239568
+s4956080
+
+N/Users/kris/Documents/cinder_0.8.5_mac/include/cinder/Cinder.h
+c0000000051780B7C0000000000000CEB
+t1366821756
+s3307
+
+N/Users/kris/Documents/cinder_0.8.5_mac/include/cinder/CinderMath.h
+c0000000051780B7C0000000000001F9E
+t1366821756
+s8094
+
+N/Users/kris/Documents/cinder_0.8.5_mac/include/cinder/Matrix.h
+c0000000051780B7C0000000000000EDD
+t1366821756
+s3805
+
+N/Users/kris/Documents/cinder_0.8.5_mac/include/cinder/Quaternion.h
+c0000000051780B7D0000000000005499
+t1366821757
+s21657
+
+N/Users/kris/Documents/cinder_0.8.5_mac/include/cinder/Vector.h
+c0000000051780B7D000000000000AD7C
+t1366821757
+s44412
+
+N/Users/kris/Documents/cinder_0.8.5_mac/include/cinder/app/AppBasic.h
+c0000000051780B7D0000000000002262
+t1366821757
+s8802
+
+N/Users/kris/Documents/cinder_0.8.5_mac/include/cinder/gl/gl.h
+c0000000051780B7E0000000000006469
+t1366821758
+s25705
+
+N/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/../resources/CinderApp.icns
+c000000005221D9F50000000000070375
+t1377950197
+s459637
+
+N/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/../src/HumanPixelApp.cpp
+c000000005221D9F50000000000000218
+t1377950197
+s536
+
+N/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/Info.plist
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/MacOS/HumanPixel
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/Objects-normal/i386/HumanPixel.LinkFileList
+c000000005221DA020000000000000093
+t1377950210
+s147
+
+N/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/Objects-normal/i386/HumanPixelApp.o
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/HumanPixel_Prefix.pch
+c000000005221D9F5000000000000012D
+t1377950197
+s301
+i<Cocoa/Cocoa.h>
+i"cinder/Cinder.h"
+i"cinder/app/AppBasic.h"
+i"cinder/gl/gl.h"
+i"cinder/CinderMath.h"
+i"cinder/Matrix.h"
+i"cinder/Vector.h"
+i"cinder/Quaternion.h"
+
+N/var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HumanPixel_Prefix-agtvatkzkkxylqevpjgeaczwaeby/HumanPixel_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c000000005221D9F50000000000000462
+t1377950197
+s1122
+
+CBuild AST from /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/../src/HumanPixelApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies05e0c38211d2b741^15a8cd8211d2b741^---0#1#0#--18"Check dependencies36"762A3E70-B6CC-4166-B2E0-09EF7ED6FD4B-
+
+CCompileC ./build/HumanPixel.build/Debug/HumanPixel.build/Objects-normal/i386/HumanPixelApp.o /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/../src/HumanPixelApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s399643017.470810
+e399643019.952999
+r1
+xCompileC
+x./build/HumanPixel.build/Debug/HumanPixel.build/Objects-normal/i386/HumanPixelApp.o
+x/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/../src/HumanPixelApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/../src/HumanPixelApp.cpp57b5788911d2b741^8cf7f38b11d2b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/../src/HumanPixelApp.cpp0000000000000000^3112"CompileC ./build/HumanPixel.build/Debug/HumanPixel.build/Objects-normal/i386/HumanPixelApp.o ../src/HumanPixelApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/HumanPixel-generated-files.hmap -I/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/HumanPixel-own-target-headers.hmap -I/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/HumanPixel-all-target-headers.hmap -iquote /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/HumanPixel-project-headers.hmap -iquote../../../include -iquote../include -I/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/build/Debug/include -I../../../boost -I/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/DerivedSources/i386 -I/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/DerivedSources -F/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/build/Debug -include /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HumanPixel_Prefix-agtvatkzkkxylqevpjgeaczwaeby/HumanPixel_Prefix.pch -MMD -MT dependencies -MF /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/Objects-normal/i386/HumanPixelApp.d --serialize-diagnostics /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/Objects-normal/i386/HumanPixelApp.dia -c /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/../src/HumanPixelApp.cpp -o /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/Objects-normal/i386/HumanPixelApp.o36"DC97E347-2464-4DB1-B1A8-D2D469503B31-
+
+CCpResource ../resources/CinderApp.icns ./build/Debug/HumanPixel.app/Contents/Resources/CinderApp.icns
+s399643010.821896
+e399643010.827392
+r1
+xCpResource
+x../resources/CinderApp.icns
+x./build/Debug/HumanPixel.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy ./build/Debug/HumanPixel.app/Contents/Resources/CinderApp.icns459cd28211d2b741^f6cfd38211d2b741^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/Resources/CinderApp.icns000000000080d041^486"CpResource ../resources/CinderApp.icns ./build/Debug/HumanPixel.app/Contents/Resources/CinderApp.icns    cd /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/../resources/CinderApp.icns /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/Resources36"D6A5556E-37B7-4AEB-97F3-4F2CEF654B49-
+
+CLd /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/MacOS/HumanPixel normal i386
+s399643019.961020
+e399643021.654146
+r1
+xLd
+x/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/MacOS/HumanPixel
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Link /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/MacOS/HumanPixelde1cf68b11d2b741^5778a78d11d2b741^---0#0#0#--1081"Ld ./build/Debug/HumanPixel.app/Contents/MacOS/HumanPixel normal i386    cd /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/build/Debug -F/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/build/Debug -filelist /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/Objects-normal/i386/HumanPixel.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/MacOS/HumanPixel36"E771F554-460E-4587-9613-9C565FDBCFD8-
+
+CProcessInfoPlistFile /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/Info.plist Info.plist
+s399643010.808058
+e399643010.813509
+r1
+xProcessInfoPlistFile
+x/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistf5f7ce8211d2b741^ee41d08211d2b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/Info.plist0000000000000000^465"ProcessInfoPlistFile ./build/Debug/HumanPixel.app/Contents/Info.plist Info.plist    cd /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app/Contents/Info.plist36"C31A8CBB-D48F-4F4D-B351-E835E7B7BDD1-
+
+CProcessPCH++ /Users/kris/Library/Developer/Xcode/DerivedData/HumanPixel-ekuydjjhazuifhcegxnwjfelnmev/Index/PrecompiledHeaders/HumanPixel_Prefix-fbpqkpqksyzyfebvbxsvmuenkgkf_ast/HumanPixel_Prefix.pch.pth HumanPixel_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HumanPixel_Prefix-agtvatkzkkxylqevpjgeaczwaeby/HumanPixel_Prefix.pch.pth HumanPixel_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s399643010.835563
+e399643017.463914
+r1
+xProcessPCH++
+x/var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HumanPixel_Prefix-agtvatkzkkxylqevpjgeaczwaeby/HumanPixel_Prefix.pch.pth
+xHumanPixel_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile HumanPixel_Prefix.pcha516d68211d2b741^37dd768911d2b741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/HumanPixel_Prefix.pch0000000000000000^3084"ProcessPCH++ /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HumanPixel_Prefix-agtvatkzkkxylqevpjgeaczwaeby/HumanPixel_Prefix.pch.pth HumanPixel_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/HumanPixel-generated-files.hmap -I/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/HumanPixel-own-target-headers.hmap -I/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/HumanPixel-all-target-headers.hmap -iquote /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/HumanPixel-project-headers.hmap -iquote../../../include -iquote../include -I/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/build/Debug/include -I../../../boost -I/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/DerivedSources/i386 -I/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/HumanPixel.build/Debug/HumanPixel.build/DerivedSources -F/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/build/Debug --serialize-diagnostics /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HumanPixel_Prefix-agtvatkzkkxylqevpjgeaczwaeby/HumanPixel_Prefix.pch.dia -c /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/HumanPixel_Prefix.pch -o /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HumanPixel_Prefix-agtvatkzkkxylqevpjgeaczwaeby/HumanPixel_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HumanPixel_Prefix-agtvatkzkkxylqevpjgeaczwaeby/HumanPixel_Prefix.pch.d36"D667201A-3771-4F36-ADB0-3D9DB47C132C-
+
+CTouch /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app
+s399643021.662202
+e399643021.668410
+r1
+xTouch
+x/Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Touch /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app4296a98d11d2b741^1d1dab8d11d2b741^---0#0#0#--219"Touch ./build/Debug/HumanPixel.app    cd /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode    /usr/bin/touch -c /Users/kris/Documents/cinder_0.8.5_mac/lab101/HumanPixel/xcode/./build/Debug/HumanPixel.app36"55762A07-0C0D-4A7E-A604-09A24BC7663E-
+
